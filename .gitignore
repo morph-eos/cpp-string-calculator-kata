@@ -396,3 +396,21 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# C++ compiled executables and temporary files
+calculator
+calculator_clang
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Temporary files
+temp_*
+*_temp
+*.tmp
